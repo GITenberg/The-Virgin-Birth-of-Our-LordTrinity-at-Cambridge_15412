@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6040'
     url: http://www.gutenberg.org/2009/agents/6040
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15412#The-Virgin-Birth-of-Our-LordTrinity-at-Cambridge
 gutenberg_issued: '2005-03-19'
 gutenberg_type: Text
 identifiers:
